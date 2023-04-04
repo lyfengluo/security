@@ -13,5 +13,6 @@
         <module>springsecurity</module>
         <module>testDemo</module>
         <module>springmvcsecurity</module>
+        <module>springboot_security</module>
     </modules>
 </project>
